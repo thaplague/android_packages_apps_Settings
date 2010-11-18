@@ -1461,7 +1461,7 @@
 
     <!-- About --> <skip />
     <!-- Main settings screen, setting title for the user to go into the About phone screen -->
-    <string name="about_settings">About phone</string>
+    <string name="about_settings">About device</string>
     <!-- Main settings screen, setting summary for the user to go into the About phone screen-->
     <string name="about_settings_summary">View legal info, phone status, software version</string>
     <!-- About phone settings screen, setting option name to go to dialog that shows legal info -->
